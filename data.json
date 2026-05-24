@@ -1,0 +1,6 @@
+{
+  _id: ObjectId('6a129c0bece01d9fc46b4e5b'),
+  name: 'Ami',
+  email: 'amit@gmail.com',
+  password: '1234'
+}
